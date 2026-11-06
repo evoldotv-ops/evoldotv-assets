@@ -1,0 +1,406 @@
+1
+00:00:00,000 --> 00:00:04,840
+Facebook beginnt mit einer ziemlich
+kleinen Frage: Wer studiert eigentlich mit
+
+2
+00:00:04,880 --> 00:00:05,840
+mir?
+
+3
+00:00:05,880 --> 00:00:10,840
+Aus einem Verzeichnis für eine einzige
+Universität entsteht ein Netzwerk mit mehr
+
+4
+00:00:10,880 --> 00:00:13,300
+als einer Milliarde monatlichen Nutzern.
+
+5
+00:00:13,340 --> 00:00:17,160
+Dazwischen verändert Facebook, wie
+Menschen Freundschaften pflegen und
+
+6
+00:00:17,200 --> 00:00:18,560
+Nachrichten entdecken.
+
+7
+00:00:18,600 --> 00:00:23,260
+Doch die Geschichte zeigt auch, was
+passiert, wenn persönliche Informationen
+zur
+
+8
+00:00:23,300 --> 00:00:25,380
+Grundlage eines riesigen Geschäfts werden.
+
+9
+00:00:26,012 --> 00:00:30,132
+Im Herbst 2003 programmiert Mark
+Zuckerberg an der Harvard-Universität
+
+10
+00:00:30,172 --> 00:00:32,572
+eine Seite namens Facemash.
+
+11
+00:00:32,612 --> 00:00:36,292
+Besucher vergleichen Fotos von
+Studierenden nach deren Aussehen.
+
+12
+00:00:36,332 --> 00:00:38,592
+Die Bilder hat er ohne Erlaubnis
+verwendet.
+
+13
+00:00:38,632 --> 00:00:42,432
+Es gibt Beschwerden, die Seite
+verschwindet, und Zuckerberg muss sich vor
+einem
+
+14
+00:00:42,472 --> 00:00:44,972
+Universitätsgremium verantworten.
+
+15
+00:00:45,012 --> 00:00:47,692
+Facebook selbst beginnt erst einige Monate
+später.
+
+16
+00:00:48,436 --> 00:00:53,396
+Am 4. Februar 2004 startet die neue
+Plattform in Harvard.
+
+17
+00:00:53,436 --> 00:00:57,796
+Zunächst können sich Studierende mit einer
+Harvard-Mailadresse anmelden.
+
+18
+00:00:57,836 --> 00:01:00,876
+Sie erstellen Profile und finden Menschen
+aus ihren Kursen.
+
+19
+00:01:00,916 --> 00:01:04,736
+Die Universitätszeitung berichtet schon
+wenige Tage später darüber.
+
+20
+00:01:04,776 --> 00:01:08,296
+Zuckerberg arbeitet mit mehreren
+Mitgründern zusammen.
+
+21
+00:01:08,336 --> 00:01:12,616
+Das Angebot wächst über Harvard hinaus und
+zieht im selben Jahr nach Kalifornien.
+
+22
+00:01:13,129 --> 00:01:16,429
+Der entscheidende Anreiz steckt im
+Freundeskreis.
+
+23
+00:01:16,469 --> 00:01:19,509
+Eine leere Profilseite bringt wenig.
+
+24
+00:01:19,549 --> 00:01:23,929
+Sobald die eigenen Bekannten dort sind,
+wird das Netzwerk nützlich.
+
+25
+00:01:23,969 --> 00:01:28,589
+2005 bekommt die Plattform ihren heutigen
+Namen, Facebook.
+
+26
+00:01:28,629 --> 00:01:33,169
+Im September 2006 öffnet Facebook die
+Registrierung für die breite
+
+27
+00:01:33,209 --> 00:01:34,469
+Öffentlichkeit.
+
+28
+00:01:34,509 --> 00:01:39,389
+Aus dem Campus-Angebot wird ein Ort, an
+dem immer mehr Menschen ihren Alltag
+
+29
+00:01:39,429 --> 00:01:40,369
+miteinander teilen.
+
+30
+00:01:40,911 --> 00:01:44,211
+Ebenfalls 2006 erscheint der News Feed.
+
+31
+00:01:44,251 --> 00:01:49,731
+Neue Beiträge und Aktivitäten von Freunden
+sammeln sich auf der Startseite.
+
+32
+00:01:49,771 --> 00:01:53,011
+Man muss die einzelnen Profile nicht mehr
+ständig besuchen.
+
+33
+00:01:53,051 --> 00:01:57,231
+Genau diese neue Sichtbarkeit löst Protest
+aus.
+
+34
+00:01:57,271 --> 00:02:00,731
+Facebook ergänzt zusätzliche
+Privatsphäre-Einstellungen.
+
+35
+00:02:00,771 --> 00:02:06,211
+Das Problem begleitet die Plattform von
+Anfang an: Etwas mit Freunden zu teilen
+
+36
+00:02:06,251 --> 00:02:08,951
+ist nicht dasselbe, wie es überall
+sichtbar zu machen.
+
+37
+00:02:09,550 --> 00:02:12,370
+2009 kommt der Like-Button hinzu.
+
+38
+00:02:12,410 --> 00:02:16,410
+Ein Klick reicht, um auf einen Beitrag zu
+reagieren.
+
+39
+00:02:16,450 --> 00:02:20,990
+Später sortiert Facebook den Feed
+zunehmend danach, was den einzelnen Nutzer
+
+40
+00:02:21,030 --> 00:02:22,170
+wahrscheinlich interessiert.
+
+41
+00:02:22,210 --> 00:02:25,530
+Die Reihenfolge entsteht also nicht
+einfach aus der Uhrzeit.
+
+42
+00:02:25,570 --> 00:02:27,350
+Sie wird ausgewählt.
+
+43
+00:02:27,390 --> 00:02:31,810
+Damit beeinflusst die Plattform auch,
+welche Geschichten Aufmerksamkeit bekommen
+
+44
+00:02:31,850 --> 00:02:34,610
+und welche im Strom der Beiträge
+untergehen.
+
+45
+00:02:35,202 --> 00:02:38,842
+Für Werbekunden ist diese Aufmerksamkeit
+wertvoll.
+
+46
+00:02:38,882 --> 00:02:43,502
+Facebook nutzt Informationen über Menschen
+und deren Interessen, um Werbung
+
+47
+00:02:43,542 --> 00:02:45,562
+gezielt auszuspielen.
+
+48
+00:02:45,602 --> 00:02:49,062
+Firmen bezahlen dafür, bestimmte
+Zielgruppen zu erreichen.
+
+49
+00:02:49,102 --> 00:02:53,822
+Je besser das Netzwerk seine Nutzer
+einschätzen kann, desto genauer kann es
+
+50
+00:02:53,862 --> 00:02:55,682
+Anzeigen zuordnen.
+
+51
+00:02:55,722 --> 00:03:00,742
+Die Plattform wird damit gleichzeitig zum
+Treffpunkt und zur Werbefläche.
+
+52
+00:03:00,782 --> 00:03:04,102
+Datenschutz gehört nun unmittelbar zu
+ihrem Geschäftsmodell.
+
+53
+00:03:04,610 --> 00:03:08,250
+Im Jahr 2012 geht Facebook an die Börse.
+
+54
+00:03:08,290 --> 00:03:12,570
+Im selben Jahr verkündet Zuckerberg mehr
+als eine Milliarde monatlich aktive
+
+55
+00:03:12,610 --> 00:03:13,890
+Nutzer.
+
+56
+00:03:13,930 --> 00:03:18,290
+Facebook kündigt außerdem die Übernahme
+von Instagram an, damals für ungefähr
+
+57
+00:03:18,330 --> 00:03:19,510
+eine Milliarde Dollar.
+
+58
+00:03:19,550 --> 00:03:21,710
+2014 folgt WhatsApp.
+
+59
+00:03:21,750 --> 00:03:26,770
+Die angekündigte Vereinbarung umfasst 16
+Milliarden Dollar und weitere drei
+
+60
+00:03:26,810 --> 00:03:29,990
+Milliarden in Aktienzusagen für Gründer
+und Beschäftigte.
+
+61
+00:03:30,476 --> 00:03:35,516
+Im Jahr 2018 gerät Cambridge Analytica in
+den Mittelpunkt.
+
+62
+00:03:35,556 --> 00:03:40,136
+Über eine Quiz-App gelangen Informationen
+von Facebook-Nutzern und deren Freunden
+
+63
+00:03:40,176 --> 00:03:40,816
+an Dritte.
+
+64
+00:03:40,856 --> 00:03:45,956
+Facebook erklärt, Daten von bis zu 87
+Millionen Menschen könnten
+
+65
+00:03:45,996 --> 00:03:49,836
+unrechtmäßig mit Cambridge Analytica
+geteilt worden sein.
+
+66
+00:03:49,876 --> 00:03:52,596
+Die Zahl bezeichnet eine mögliche
+Obergrenze.
+
+67
+00:03:52,636 --> 00:03:56,876
+Wie wenig Kontrolle Betroffene über die
+Weitergabe hatten, wird zum Kern des
+
+68
+00:03:56,916 --> 00:03:57,456
+Skandals.
+
+69
+00:03:58,040 --> 00:04:02,440
+Ein Jahr später vereinbart Facebook mit
+der amerikanischen Handelsbehörde FTC
+
+70
+00:04:02,480 --> 00:04:05,890
+eine Zahlung von 5 Milliarden Dollar.
+
+71
+00:04:05,930 --> 00:04:10,820
+Es geht um den Vorwurf, gegen eine frühere
+Datenschutzanordnung verstoßen und
+
+72
+00:04:10,860 --> 00:04:13,140
+Nutzer über ihre Kontrolle getäuscht zu
+haben.
+
+73
+00:04:13,180 --> 00:04:14,860
+Dazu kommen neue Auflagen.
+
+74
+00:04:14,900 --> 00:04:19,680
+Die Auseinandersetzung betrifft damit die
+Regeln des Unternehmens, nicht bloß das
+
+75
+00:04:19,720 --> 00:04:21,540
+Verhalten einer einzelnen fremden App.
+
+76
+00:04:22,126 --> 00:04:27,486
+Im Oktober 2021 bekommt der Konzern den
+Namen Meta.
+
+77
+00:04:27,526 --> 00:04:32,626
+Zuckerberg setzt auf das Metaversum, eine
+stärker räumliche digitale Welt.
+
+78
+00:04:32,666 --> 00:04:34,766
+Die Facebook-App behält ihren Namen.
+
+79
+00:04:34,806 --> 00:04:38,286
+Instagram und WhatsApp gehören ebenfalls
+zum Konzern.
+
+80
+00:04:38,326 --> 00:04:43,086
+Wer von Facebook spricht, muss deshalb
+unterscheiden: die einzelne Plattform auf
+
+81
+00:04:43,126 --> 00:04:46,886
+der einen Seite, das Unternehmen mit
+mehreren Diensten auf der anderen.
+
+82
+00:04:47,507 --> 00:04:50,967
+Am Anfang steht die Suche nach Menschen
+auf einem Campus.
+
+83
+00:04:51,007 --> 00:04:55,747
+Am Ende dieser Entwicklung entscheidet ein
+weltweit genutztes System mit darüber,
+
+84
+00:04:55,787 --> 00:04:59,407
+was Menschen im Alltag lesen und
+miteinander teilen.
+
+85
+00:04:59,447 --> 00:05:03,987
+Facebooks Geschichte handelt deshalb auch
+davon, wer diese Auswahl trifft und wie
+
+86
+00:05:04,027 --> 00:05:07,267
+viel Kontrolle die Nutzer über ihre
+eigenen Informationen behalten.
